@@ -4,7 +4,7 @@ class config:
     API_HASH = "e63f5284308097bc0e8751316dcfa48b"
     DATABASE_URL = "postgres://yqohzxjzcjlont:cc5d0318c95516e93d870316c2fa8f376b1058ee7386b9a6845a3689a68f0d46@ec2-44-209-24-62.compute-1.amazonaws.com:5432/d8ufnlphposo5u"
     SUDO_USERS = "5201479132" # Separated by space.
-    SUPPORT_CHAT_LINK = "https://t.me/+Kb8Fv0nLsqg5NmU1"
+    SUPPORT_CHAT_LINK = "https://t.me/Telly_BotzSupport"
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = "769437843954-vj7hsaa3l8get6n61e0ampt83hp8utaf.apps.googleusercontent.com"
     G_DRIVE_CLIENT_SECRET = "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"
@@ -35,10 +35,10 @@ class Messages:
         
         f"**Delete Google Drive Files**\n__Delete google drive files. Use /{BotCommands.Delete[0]} (File/Folder URL) to delete file or reply /{BotCommands.Delete[0]} to bot message.\nYou can also empty trash files use /{BotCommands.EmptyTrash[0]}\nNote: Files are deleted permanently. This process cannot be undone.\n\n**Copy Google Drive Files**\n__Yes, Clone or Copy Google Drive Files.\n__Use /{BotCommands.Clone[0]} (File id / Folder id or URL) to copy Google Drive Files in your Google Drive Account.__",
         
-        "**Rules & Precautions**\n__1. Don't copy BIG Google Drive Files/Folders. It may hang the bot and your files maybe damaged.\n2. Send One request at a time unless bot will stop all processes.\n3. Don't send slow links @transload it first.\n4. Don't misuse, overload or abuse this free service.__",
+        "**Rules & Precautions**\n__1. Don't copy BIG Google Drive Files/Folders. It may hang the bot and your files maybe damaged.\n2. Send One request at a time unless bot will stop all processes.\n3. Don't send slow links @Telly_botz it first.\n4. Don't misuse, overload or abuse this free service.__",
         
         # Dont remove this ↓ if you respect developer.
-        "**Powered by @IDNCoder**"
+        "**Powered by @annoying_boy**"
         ]
      
     RATE_LIMIT_EXCEEDED_MESSAGE = "❗ **Rate Limit Exceeded.**\n__User rate limit exceeded try after 24 hours.__"
